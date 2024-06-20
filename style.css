@@ -1,0 +1,65 @@
+body{
+    background-color: #D9D9D9;
+}
+#barradenavegacao{
+    background-color: #b4731d;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: italic;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+#banana {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+#chocolate {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+#sorvete {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+#vegano {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.menu{
+    display:inline-block;
+}
+.menu a{
+    
+    display:inline-block;
+    color:#442a07;
+    text-align:center;
+    padding:10px 10px;
+    text-decoration:none;
+    width: auto; 
+}
+li a:hover{
+    background-color: #442a07;
+    color: #fff8dc;
+}
+
